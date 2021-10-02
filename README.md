@@ -7,6 +7,7 @@
 - [x] Vue Router
 - [x] ESLint + Prettier
 
+> origin: [极致的开发体验 ! Vite + Vue 3 + tsx 完整教程](https://juejin.cn/post/6972094589251354632)
 
 This template should help get you started developing with Vue 3 and Typescript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
